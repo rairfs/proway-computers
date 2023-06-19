@@ -57,3 +57,8 @@
   color: white;
 }
 
+.nav__home:link {
+  background-color: #fff;
+  text-decoration: none;
+}
+
